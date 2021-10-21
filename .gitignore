@@ -1,0 +1,19 @@
+# Visual studio
+.vscode
+.vs
+
+# Android
+.idea
+.gradle
+local.properties
+*.iml
+android
+
+# Node
+node_modules
+*.log
+.nvm
+package-lock.json
+
+# Else
+ios
